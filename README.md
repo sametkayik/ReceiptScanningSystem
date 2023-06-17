@@ -28,7 +28,8 @@ The purpose of the Receipt Scanning System is to parse and process OCR data from
 The `response.json` and `output.json` files can be found in the directory: `ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0`.
 
 ### Output
-![image](https://github.com/sametkayik/ReceiptScanningSystem/assets/53970699/44ea9c3b-aa00-4215-b3c5-a749a512ca8b)
+![image](https://github.com/sametkayik/ReceiptScanningSystem/assets/53970699/e6abc13b-c5cb-488a-bc1d-b8f0948f6cec)
+
 
 
 
