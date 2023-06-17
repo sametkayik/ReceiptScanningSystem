@@ -55,9 +55,11 @@ class Program
 
 
         int lineNumber = 1;
-        
+
         using (StreamWriter writer = new StreamWriter(outputPath))
         {
+            writer.WriteLine("line, text"); // Column name
+            Console.WriteLine("line, text");
             foreach (List<Item> line in lines)
             {
                 List<string> descriptions = new List<string>();
@@ -67,8 +69,9 @@ class Program
                 }
                 if (descriptions.Count > 0) // If the item contains descriptions, write to output
                 {
-                    string output = lineNumber.ToString() + " " + string.Join(" ", descriptions);
+                    string output = lineNumber.ToString() + ", " + string.Join(" ", descriptions); 
                     writer.WriteLine(output);
+                    
                     Console.WriteLine(output);
                     lineNumber++;
                 }
