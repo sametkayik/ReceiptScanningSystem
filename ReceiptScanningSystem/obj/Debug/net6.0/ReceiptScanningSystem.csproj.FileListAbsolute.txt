@@ -1,0 +1,17 @@
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.AssemblyInfo.cs
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0\ReceiptScanningSystem.exe
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0\ReceiptScanningSystem.deps.json
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0\ReceiptScanningSystem.runtimeconfig.json
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0\ReceiptScanningSystem.dll
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0\ReceiptScanningSystem.pdb
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.csproj.CopyComplete
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.dll
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\refint\ReceiptScanningSystem.dll
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.pdb
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ReceiptScanningSystem.genruntimeconfig.cache
+C:\Users\samet\source\repos\ReceiptScanningSystem\ReceiptScanningSystem\obj\Debug\net6.0\ref\ReceiptScanningSystem.dll
